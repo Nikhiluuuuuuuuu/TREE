@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const profileImage = document.getElementById('profileImage');
         
         authorLink.href = USER_CONFIG.profileUrl;
-        authorLink.textContent = USER_CONFIG.username;
+        authorLink.textContent = USER_CONFIG.displayName;
         profileImage.src = USER_CONFIG.profileImageUrl;
         profileImage.alt = `${USER_CONFIG.displayName}'s Profile Picture`;
     }
