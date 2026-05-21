@@ -14,7 +14,7 @@ A simple, elegant web application that generates visual folder tree structures f
 
 ## 🚀 Demo
 
-[Live Demo](https://nikhilsai71.github.io/TREE/) *(Replace with your actual GitHub Pages URL)*
+[Live Demo](https://Nikhiluuuuuuuuu.github.io/TREE/) *(Replace with your actual GitHub Pages URL)*
 
 ## 🖼️ Preview
 
@@ -45,7 +45,7 @@ project-folder:
 ## 🔧 Installation & Usage
 
 ### Online Usage
-1. Visit the [live demo](https://nikhilsai71.github.io/TREE/)
+1. Visit the [live demo](https://Nikhiluuuuuuuuu.github.io/TREE/)
 2. Drag and drop a folder or click "Choose Folder"
 3. View the generated tree structure
 4. Click "Copy" to copy the tree to your clipboard
@@ -53,7 +53,7 @@ project-folder:
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NIKHILSAI71/TREE.git
+   git clone https://github.com/Nikhiluuuuuuuuu/TREE.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -108,13 +108,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**NIKHILSAI71**
-- GitHub: [@NIKHILSAI71](https://github.com/NIKHILSAI71)
-- Profile: [GitHub Profile](https://github.com/NIKHILSAI71)
+**Nikhil**
+- GitHub: [@Nikhiluuuuuuuuu](https://github.com/Nikhiluuuuuuuuu)
+- Profile: [GitHub Profile](https://github.com/Nikhiluuuuuuuuu)
 
 ## 🐛 Bug Reports & Feature Requests
 
-If you encounter any bugs or have feature requests, please [create an issue](https://github.com/NIKHILSAI71/TREE/issues) on GitHub.
+If you encounter any bugs or have feature requests, please [create an issue](https://github.com/Nikhiluuuuuuuuu/TREE/issues) on GitHub.
 
 ## 🔄 Changelog
 
