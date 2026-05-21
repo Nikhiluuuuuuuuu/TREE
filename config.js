@@ -3,7 +3,7 @@
 
 const USER_CONFIG = {
     username: 'Nikhiluuuuuuuuu',
-    displayName: 'Nikhil',
+    displayName: 'Nikhil Sai Pagidimarri',
     profileUrl: 'https://github.com/Nikhiluuuuuuuuu',
     profileImageUrl: 'https://github.com/Nikhiluuuuuuuuu.png',
     repoName: 'TREE',
