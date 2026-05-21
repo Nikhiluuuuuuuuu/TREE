@@ -1,4 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Initialize user configuration in HTML
+    initializeUserConfig();
+    
     const elements = {
         folderTree: document.getElementById('folder-tree'),
         folderTreeContainer: document.getElementById('folder-tree-container'),
@@ -30,6 +33,16 @@ document.addEventListener('DOMContentLoaded', function() {
     elements.closeButton.addEventListener('click', updateUIForEmptySelection);
 
     // Core Functions
+    function initializeUserConfig() {
+        const authorLink = document.getElementById('authorLink');
+        const profileImage = document.getElementById('profileImage');
+        
+        authorLink.href = USER_CONFIG.profileUrl;
+        authorLink.textContent = USER_CONFIG.username;
+        profileImage.src = USER_CONFIG.profileImageUrl;
+        profileImage.alt = `${USER_CONFIG.displayName}'s Profile Picture`;
+    }
+
     function updateDropArea(isDragging) {
         elements.dropArea.classList.toggle('dragover', isDragging);
         elements.dropMessage.textContent = isDragging ? 
